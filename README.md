@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning ML, NextJS and NodeJS<br>💬 Ask me about mosevaa13@gmail.com
+🌱 I’m currently learning backend and ML development<br>💬 Ask me about mosevaa13@gmail.com
 
 
 # 💻 Tech Stack:
